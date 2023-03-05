@@ -1,0 +1,4 @@
+**/*.IMG
+**/*.MAP
+**/*.OBJ
+/.vscode/settings.json
